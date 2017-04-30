@@ -1,2 +1,2 @@
 # 2dCarRace
- A two dimensional and three lane car racing game. Development platform: C Plus Plus, OpenGL.
+ A two dimensional and three lane car racing game. Development platform: C++, OpenGL.
